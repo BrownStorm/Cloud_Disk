@@ -1,0 +1,8 @@
+[2021-08-25 11:48:39]--[src_cgi/dealsharefile_cgi.c:552]--cmd = save
+[2021-08-25 11:48:39]--[src_cgi/dealsharefile_cgi.c:584]--buf = {
+    "filename": "bazel2.png",
+    "md5": "79ae4d9361d0b859e367006d6bbe6203",
+    "user": "milo"
+}
+
+[2021-08-25 11:48:39]--[src_cgi/dealsharefile_cgi.c:587]--user = milo, md5 = 79ae4d9361d0b859e367006d6bbe6203, file_name = bazel2.png

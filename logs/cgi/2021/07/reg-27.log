@@ -1,0 +1,10 @@
+[2021-07-27 12:08:48]--[src_cgi/reg_cgi.c:235]--buf = {
+    "email": "472251823@qq.com",
+    "firstPwd": "e10adc3949ba59abbe56e057f20f883e",
+    "nickName": "ckf",
+    "phone": "18620823143",
+    "userName": "caokf"
+}
+
+[2021-07-27 12:08:48]--[src_cgi/reg_cgi.c:127]--mysql_user = root, mysql_pwd = 123, mysql_db = 0voice_cloud_disk
+[2021-07-27 12:08:48]--[src_cgi/reg_cgi.c:140]--user_name = caokf, nick_name = ckf, pwd = e10adc3949ba59abbe56e057f20f883e, tel = 18620823143, email = 472251823@qq.com

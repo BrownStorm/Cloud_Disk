@@ -1,0 +1,10 @@
+[2021-08-25 10:08:57]--[src_cgi/upload_cgi.c:675]--CONTENT_LENGTH:7965
+[2021-08-25 10:08:57]--[src_cgi/upload_cgi.c:691]--开始上传[, 大小：7965]到本地
+[2021-08-25 10:08:57]--[src_cgi/upload_cgi.c:119]--boundary: [------WebKitFormBoundarymJ>2\v;iL\>NW:pB]
+[2021-08-25 10:08:57]--[src_cgi/upload_cgi.c:139]--content_text: [Content-Disposition: form-data; user="milo" filename="python2.png" md5="dcfe30f02e1e5557f4e327c08eadb3d4" size=7722]
+[2021-08-25 10:08:57]--[src_cgi/upload_cgi.c:262]--start open python2.png
+[2021-08-25 10:08:57]--[src_cgi/upload_cgi.c:272]--write python2.png len 7722
+[2021-08-25 10:08:57]--[src_cgi/upload_cgi.c:699]--milo成功上传[python2.png, 大小：7722, md5码：dcfe30f02e1e5557f4e327c08eadb3d4]到本地
+[2021-08-25 10:08:57]--[src_cgi/upload_cgi.c:424]--get [group1/M00/00/00/rBT4p2ElpjmARKGBAAAeKmPz98Q863.png]!
+[2021-08-25 10:08:57]--[src_cgi/upload_cgi.c:539]--file url is: http://47.108.75.171:80/group1/M00/00/00/rBT4p2ElpjmARKGBAAAeKmPz98Q863.png
+[2021-08-25 10:08:57]--[src_cgi/upload_cgi.c:593]--insert into file_info (md5, file_id, url, size, type, count) values ('dcfe30f02e1e5557f4e327c08eadb3d4', 'group1/M00/00/00/rBT4p2ElpjmARKGBAAAeKmPz98Q863.png', 'http://47.108.75.171:80/group1/M00/00/00/rBT4p2ElpjmARKGBAAAeKmPz98Q863.png', '7722', 'png', 1) 文件信息插入成功

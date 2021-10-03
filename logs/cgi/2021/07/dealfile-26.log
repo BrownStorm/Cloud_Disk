@@ -1,0 +1,36 @@
+[2021-07-26 21:31:40]--[src_cgi/dealfile_cgi.c:694]--cmd = pv
+[2021-07-26 21:31:40]--[src_cgi/dealfile_cgi.c:726]--buf = {
+    "filename": "test0726-1.txt",
+    "md5": "432cdd8b15f44128ab9ce0dffa305fbc",
+    "token": "2b828d43bb35eca35f212053eea9c49a",
+    "user": "liult"
+}
+
+[2021-07-26 21:31:40]--[src_cgi/dealfile_cgi.c:729]--user = liult, token = 2b828d43bb35eca35f212053eea9c49a, md5 = 432cdd8b15f44128ab9ce0dffa305fbc, file_name = test0726-1.txt
+[2021-07-26 21:33:25]--[src_cgi/dealfile_cgi.c:694]--cmd = pv
+[2021-07-26 21:33:25]--[src_cgi/dealfile_cgi.c:726]--buf = {
+    "filename": "test0726-1.txt",
+    "md5": "432cdd8b15f44128ab9ce0dffa305fbc",
+    "token": "671bbc001db3e2e568aa3abbabc5502f",
+    "user": "liult"
+}
+
+[2021-07-26 21:33:25]--[src_cgi/dealfile_cgi.c:729]--user = liult, token = 671bbc001db3e2e568aa3abbabc5502f, md5 = 432cdd8b15f44128ab9ce0dffa305fbc, file_name = test0726-1.txt
+[2021-07-26 21:34:40]--[src_cgi/dealfile_cgi.c:694]--cmd = pv
+[2021-07-26 21:34:40]--[src_cgi/dealfile_cgi.c:726]--buf = {
+    "filename": "test0726-1.txt",
+    "md5": "432cdd8b15f44128ab9ce0dffa305fbc",
+    "token": "671bbc001db3e2e568aa3abbabc5502f",
+    "user": "liult"
+}
+
+[2021-07-26 21:34:40]--[src_cgi/dealfile_cgi.c:729]--user = liult, token = 671bbc001db3e2e568aa3abbabc5502f, md5 = 432cdd8b15f44128ab9ce0dffa305fbc, file_name = test0726-1.txt
+[2021-07-26 21:37:13]--[src_cgi/dealfile_cgi.c:694]--cmd = pv
+[2021-07-26 21:37:13]--[src_cgi/dealfile_cgi.c:726]--buf = {
+    "filename": "0.png",
+    "md5": "71dc5528330519165801195652e67d2c",
+    "token": "671bbc001db3e2e568aa3abbabc5502f",
+    "user": "liult"
+}
+
+[2021-07-26 21:37:13]--[src_cgi/dealfile_cgi.c:729]--user = liult, token = 671bbc001db3e2e568aa3abbabc5502f, md5 = 71dc5528330519165801195652e67d2c, file_name = 0.png

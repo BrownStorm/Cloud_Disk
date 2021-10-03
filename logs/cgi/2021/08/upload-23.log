@@ -1,0 +1,10 @@
+[2021-08-23 20:07:56]--[src_cgi/upload_cgi.c:675]--CONTENT_LENGTH:712
+[2021-08-23 20:07:56]--[src_cgi/upload_cgi.c:691]--开始上传[, 大小：712]到本地
+[2021-08-23 20:07:56]--[src_cgi/upload_cgi.c:119]--boundary: [------WebKitFormBoundaryf<GL;<xMvV8of]R9]
+[2021-08-23 20:07:56]--[src_cgi/upload_cgi.c:139]--content_text: [Content-Disposition: form-data; user="liult" filename="新建文本文档.txt" md5="8b110e6b9b31ab66028406cf26cbfb49" size=458]
+[2021-08-23 20:07:56]--[src_cgi/upload_cgi.c:262]--start open 新建文本文档.txt
+[2021-08-23 20:07:56]--[src_cgi/upload_cgi.c:272]--write 新建文本文档.txt len 458
+[2021-08-23 20:07:56]--[src_cgi/upload_cgi.c:699]--liult成功上传[新建文本文档.txt, 大小：458, md5码：8b110e6b9b31ab66028406cf26cbfb49]到本地
+[2021-08-23 20:07:56]--[src_cgi/upload_cgi.c:424]--get [group1/M00/00/00/rBT4p2Ejj5yAH8EAAAABylT3ewo424.txt]!
+[2021-08-23 20:07:56]--[src_cgi/upload_cgi.c:539]--file url is: http://47.108.75.171:80/group1/M00/00/00/rBT4p2Ejj5yAH8EAAAABylT3ewo424.txt
+[2021-08-23 20:07:56]--[src_cgi/upload_cgi.c:593]--insert into file_info (md5, file_id, url, size, type, count) values ('8b110e6b9b31ab66028406cf26cbfb49', 'group1/M00/00/00/rBT4p2Ejj5yAH8EAAAABylT3ewo424.txt', 'http://47.108.75.171:80/group1/M00/00/00/rBT4p2Ejj5yAH8EAAAABylT3ewo424.txt', '458', 'txt', 1) 文件信息插入成功

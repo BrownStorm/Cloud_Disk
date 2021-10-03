@@ -1,0 +1,9 @@
+[2021-08-23 20:09:00]--[src_cgi/dealfile_cgi.c:694]--cmd = pv
+[2021-08-23 20:09:00]--[src_cgi/dealfile_cgi.c:726]--buf = {
+    "filename": "新建文本文档.txt",
+    "md5": "8b110e6b9b31ab66028406cf26cbfb49",
+    "token": "a1938422f12c17bd542687340e75801b",
+    "user": "liult"
+}
+
+[2021-08-23 20:09:00]--[src_cgi/dealfile_cgi.c:729]--user = liult, token = a1938422f12c17bd542687340e75801b, md5 = 8b110e6b9b31ab66028406cf26cbfb49, file_name = 新建文本文档.txt

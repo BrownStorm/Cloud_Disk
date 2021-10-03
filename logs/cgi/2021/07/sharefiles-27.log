@@ -1,0 +1,452 @@
+[2021-07-27 08:17:13]--[src_cgi/sharefiles_cgi.c:41]--mysql:[user=root,pwd=123,database=0voice_cloud_disk][2021-07-27 08:17:13]--[src_cgi/sharefiles_cgi.c:46]--redis:[ip=127.0.0.1,port=6379]
+[2021-07-27 08:46:11]--[src_cgi/sharefiles_cgi.c:41]--mysql:[user=root,pwd=123,database=0voice_cloud_disk][2021-07-27 08:46:11]--[src_cgi/sharefiles_cgi.c:46]--redis:[ip=127.0.0.1,port=6379]
+[2021-07-27 08:54:20]--[src_cgi/sharefiles_cgi.c:41]--mysql:[user=root,pwd=123,database=0voice_cloud_disk][2021-07-27 08:54:20]--[src_cgi/sharefiles_cgi.c:46]--redis:[ip=127.0.0.1,port=6379]
+[2021-07-27 08:55:46]--[src_cgi/sharefiles_cgi.c:605]--cmd = count
+[2021-07-27 08:55:46]--[src_cgi/sharefiles_cgi.c:72]--select count from user_file_count where user='xxx_share_xxx_file_xxx_list_xxx_count_xxx' 操作失败
+[2021-07-27 08:55:46]--[src_cgi/sharefiles_cgi.c:84]--line = 0
+[2021-07-27 08:55:46]--[src_cgi/sharefiles_cgi.c:605]--cmd = count
+[2021-07-27 08:55:46]--[src_cgi/sharefiles_cgi.c:72]--select count from user_file_count where user='xxx_share_xxx_file_xxx_list_xxx_count_xxx' 操作失败
+[2021-07-27 08:55:46]--[src_cgi/sharefiles_cgi.c:84]--line = 0
+[2021-07-27 09:05:29]--[src_cgi/sharefiles_cgi.c:41]--mysql:[user=root,pwd=123,database=0voice_cloud_disk][2021-07-27 09:05:29]--[src_cgi/sharefiles_cgi.c:46]--redis:[ip=127.0.0.1,port=6379]
+[2021-07-27 09:06:35]--[src_cgi/sharefiles_cgi.c:41]--mysql:[user=root,pwd=123,database=0voice_cloud_disk][2021-07-27 09:06:35]--[src_cgi/sharefiles_cgi.c:46]--redis:[ip=127.0.0.1,port=6379]
+[2021-07-27 09:06:58]--[src_cgi/sharefiles_cgi.c:41]--mysql:[user=root,pwd=123,database=0voice_cloud_disk][2021-07-27 09:06:58]--[src_cgi/sharefiles_cgi.c:46]--redis:[ip=127.0.0.1,port=6379]
+[2021-07-27 09:07:31]--[src_cgi/sharefiles_cgi.c:41]--mysql:[user=root,pwd=123,database=0voice_cloud_disk][2021-07-27 09:07:31]--[src_cgi/sharefiles_cgi.c:46]--redis:[ip=127.0.0.1,port=6379]
+[2021-07-27 09:08:50]--[src_cgi/sharefiles_cgi.c:41]--mysql:[user=root,pwd=123,database=0voice_cloud_disk][2021-07-27 09:08:50]--[src_cgi/sharefiles_cgi.c:46]--redis:[ip=127.0.0.1,port=6379]
+[2021-07-27 09:09:54]--[src_cgi/sharefiles_cgi.c:41]--mysql:[user=root,pwd=123,database=0voice_cloud_disk][2021-07-27 09:09:54]--[src_cgi/sharefiles_cgi.c:46]--redis:[ip=127.0.0.1,port=6379]
+[2021-07-27 09:10:16]--[src_cgi/sharefiles_cgi.c:41]--mysql:[user=root,pwd=123,database=0voice_cloud_disk][2021-07-27 09:10:16]--[src_cgi/sharefiles_cgi.c:46]--redis:[ip=127.0.0.1,port=6379]
+[2021-07-27 09:10:56]--[src_cgi/sharefiles_cgi.c:41]--mysql:[user=root,pwd=123,database=0voice_cloud_disk][2021-07-27 09:10:56]--[src_cgi/sharefiles_cgi.c:46]--redis:[ip=127.0.0.1,port=6379]
+[2021-07-27 09:11:18]--[src_cgi/sharefiles_cgi.c:41]--mysql:[user=root,pwd=123,database=0voice_cloud_disk][2021-07-27 09:11:18]--[src_cgi/sharefiles_cgi.c:46]--redis:[ip=127.0.0.1,port=6379]
+[2021-07-27 09:52:33]--[src_cgi/sharefiles_cgi.c:41]--mysql:[user=root,pwd=123,database=0voice_cloud_disk][2021-07-27 09:52:33]--[src_cgi/sharefiles_cgi.c:46]--redis:[ip=127.0.0.1,port=6379]
+[2021-07-27 09:56:44]--[src_cgi/sharefiles_cgi.c:41]--mysql:[user=root,pwd=123,database=0voice_cloud_disk][2021-07-27 09:56:44]--[src_cgi/sharefiles_cgi.c:46]--redis:[ip=127.0.0.1,port=6379]
+[2021-07-27 09:59:23]--[src_cgi/sharefiles_cgi.c:41]--mysql:[user=root,pwd=123,database=0voice_cloud_disk][2021-07-27 09:59:23]--[src_cgi/sharefiles_cgi.c:46]--redis:[ip=127.0.0.1,port=6379]
+[2021-07-27 09:59:50]--[src_cgi/sharefiles_cgi.c:41]--mysql:[user=root,pwd=123,database=0voice_cloud_disk][2021-07-27 09:59:50]--[src_cgi/sharefiles_cgi.c:46]--redis:[ip=127.0.0.1,port=6379]
+[2021-07-27 10:03:54]--[src_cgi/sharefiles_cgi.c:41]--mysql:[user=root,pwd=123,database=0voice_cloud_disk][2021-07-27 10:03:54]--[src_cgi/sharefiles_cgi.c:46]--redis:[ip=127.0.0.1,port=6379]
+[2021-07-27 10:04:04]--[src_cgi/sharefiles_cgi.c:41]--mysql:[user=root,pwd=123,database=0voice_cloud_disk][2021-07-27 10:04:04]--[src_cgi/sharefiles_cgi.c:46]--redis:[ip=127.0.0.1,port=6379]
+[2021-07-27 10:04:20]--[src_cgi/sharefiles_cgi.c:41]--mysql:[user=root,pwd=123,database=0voice_cloud_disk][2021-07-27 10:04:20]--[src_cgi/sharefiles_cgi.c:46]--redis:[ip=127.0.0.1,port=6379]
+[2021-07-27 10:06:16]--[src_cgi/sharefiles_cgi.c:41]--mysql:[user=root,pwd=123,database=0voice_cloud_disk][2021-07-27 10:06:16]--[src_cgi/sharefiles_cgi.c:46]--redis:[ip=127.0.0.1,port=6379]
+[2021-07-27 10:09:35]--[src_cgi/sharefiles_cgi.c:41]--mysql:[user=root,pwd=123,database=0voice_cloud_disk][2021-07-27 10:09:35]--[src_cgi/sharefiles_cgi.c:46]--redis:[ip=127.0.0.1,port=6379]
+[2021-07-27 10:19:32]--[src_cgi/sharefiles_cgi.c:41]--mysql:[user=root,pwd=123,database=0voice_cloud_disk][2021-07-27 10:19:32]--[src_cgi/sharefiles_cgi.c:46]--redis:[ip=127.0.0.1,port=6379]
+[2021-07-27 10:31:23]--[src_cgi/sharefiles_cgi.c:41]--mysql:[user=root,pwd=123,database=0voice_cloud_disk][2021-07-27 10:31:23]--[src_cgi/sharefiles_cgi.c:46]--redis:[ip=127.0.0.1,port=6379]
+[2021-07-27 11:05:08]--[src_cgi/sharefiles_cgi.c:41]--mysql:[user=root,pwd=123,database=0voice_cloud_disk][2021-07-27 11:05:08]--[src_cgi/sharefiles_cgi.c:46]--redis:[ip=127.0.0.1,port=6379]
+[2021-07-27 11:06:35]--[src_cgi/sharefiles_cgi.c:41]--mysql:[user=root,pwd=123,database=0voice_cloud_disk][2021-07-27 11:06:35]--[src_cgi/sharefiles_cgi.c:46]--redis:[ip=127.0.0.1,port=6379]
+[2021-07-27 11:10:21]--[src_cgi/sharefiles_cgi.c:41]--mysql:[user=root,pwd=123,database=0voice_cloud_disk][2021-07-27 11:10:21]--[src_cgi/sharefiles_cgi.c:46]--redis:[ip=127.0.0.1,port=6379]
+[2021-07-27 12:09:11]--[src_cgi/sharefiles_cgi.c:605]--cmd = count
+[2021-07-27 12:09:11]--[src_cgi/sharefiles_cgi.c:72]--select count from user_file_count where user='xxx_share_xxx_file_xxx_list_xxx_count_xxx' 操作失败
+[2021-07-27 12:09:11]--[src_cgi/sharefiles_cgi.c:84]--line = 0
+[2021-07-27 12:09:12]--[src_cgi/sharefiles_cgi.c:605]--cmd = count
+[2021-07-27 12:09:12]--[src_cgi/sharefiles_cgi.c:72]--select count from user_file_count where user='xxx_share_xxx_file_xxx_list_xxx_count_xxx' 操作失败
+[2021-07-27 12:09:12]--[src_cgi/sharefiles_cgi.c:84]--line = 0
+[2021-07-27 12:36:03]--[src_cgi/sharefiles_cgi.c:605]--cmd = count
+[2021-07-27 12:36:03]--[src_cgi/sharefiles_cgi.c:72]--select count from user_file_count where user='xxx_share_xxx_file_xxx_list_xxx_count_xxx' 操作失败
+[2021-07-27 12:36:03]--[src_cgi/sharefiles_cgi.c:84]--line = 0
+[2021-07-27 12:36:24]--[src_cgi/sharefiles_cgi.c:605]--cmd = count
+[2021-07-27 12:36:24]--[src_cgi/sharefiles_cgi.c:84]--line = 1
+[2021-07-27 12:36:24]--[src_cgi/sharefiles_cgi.c:605]--cmd = normal
+[2021-07-27 12:36:24]--[src_cgi/sharefiles_cgi.c:643]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2021-07-27 12:36:24]--[src_cgi/sharefiles_cgi.c:652]--start = 0, count = 1
+[2021-07-27 12:36:24]--[src_cgi/sharefiles_cgi.c:171]--select share_file_list.*, file_info.url, file_info.size, file_info.type from file_info, share_file_list where file_info.md5 = share_file_list.md5 limit 0, 1 在操作
+[2021-07-27 12:36:24]--[src_cgi/sharefiles_cgi.c:299]--{
+	"files":	[{
+			"user":	"liult",
+			"md5":	"71dc5528330519165801195652e67d2c",
+			"file_name":	"0.png",
+			"share_status":	1,
+			"pv":	0,
+			"create_time":	"2021-07-27 12:36:22",
+			"url":	"http://172.20.248.167:80/group1/M00/00/00/rBT4p2D-uj-AHy60AAEIYarYfbA403.png",
+			"size":	67681,
+			"type":	"png"
+		}]
+}
+[2021-07-27 12:36:26]--[src_cgi/sharefiles_cgi.c:605]--cmd = count
+[2021-07-27 12:36:26]--[src_cgi/sharefiles_cgi.c:84]--line = 1
+[2021-07-27 12:36:26]--[src_cgi/sharefiles_cgi.c:605]--cmd = normal
+[2021-07-27 12:36:26]--[src_cgi/sharefiles_cgi.c:643]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2021-07-27 12:36:26]--[src_cgi/sharefiles_cgi.c:652]--start = 0, count = 1
+[2021-07-27 12:36:26]--[src_cgi/sharefiles_cgi.c:171]--select share_file_list.*, file_info.url, file_info.size, file_info.type from file_info, share_file_list where file_info.md5 = share_file_list.md5 limit 0, 1 在操作
+[2021-07-27 12:36:26]--[src_cgi/sharefiles_cgi.c:299]--{
+	"files":	[{
+			"user":	"liult",
+			"md5":	"71dc5528330519165801195652e67d2c",
+			"file_name":	"0.png",
+			"share_status":	1,
+			"pv":	0,
+			"create_time":	"2021-07-27 12:36:22",
+			"url":	"http://172.20.248.167:80/group1/M00/00/00/rBT4p2D-uj-AHy60AAEIYarYfbA403.png",
+			"size":	67681,
+			"type":	"png"
+		}]
+}
+[2021-07-27 14:02:29]--[src_cgi/sharefiles_cgi.c:605]--cmd = count
+[2021-07-27 14:02:29]--[src_cgi/sharefiles_cgi.c:84]--line = 1
+[2021-07-27 14:02:29]--[src_cgi/sharefiles_cgi.c:605]--cmd = normal
+[2021-07-27 14:02:29]--[src_cgi/sharefiles_cgi.c:643]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2021-07-27 14:02:29]--[src_cgi/sharefiles_cgi.c:652]--start = 0, count = 1
+[2021-07-27 14:02:29]--[src_cgi/sharefiles_cgi.c:171]--select share_file_list.*, file_info.url, file_info.size, file_info.type from file_info, share_file_list where file_info.md5 = share_file_list.md5 limit 0, 1 在操作
+[2021-07-27 14:02:29]--[src_cgi/sharefiles_cgi.c:299]--{
+	"files":	[{
+			"user":	"liult",
+			"md5":	"71dc5528330519165801195652e67d2c",
+			"file_name":	"0.png",
+			"share_status":	1,
+			"pv":	0,
+			"create_time":	"2021-07-27 12:36:22",
+			"url":	"http://172.20.248.167:80/group1/M00/00/00/rBT4p2D-uj-AHy60AAEIYarYfbA403.png",
+			"size":	67681,
+			"type":	"png"
+		}]
+}
+[2021-07-27 14:02:29]--[src_cgi/sharefiles_cgi.c:605]--cmd = count
+[2021-07-27 14:02:29]--[src_cgi/sharefiles_cgi.c:84]--line = 1
+[2021-07-27 14:02:29]--[src_cgi/sharefiles_cgi.c:605]--cmd = pvdesc
+[2021-07-27 14:02:29]--[src_cgi/sharefiles_cgi.c:643]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2021-07-27 14:02:29]--[src_cgi/sharefiles_cgi.c:652]--start = 0, count = 1
+[2021-07-27 14:02:29]--[src_cgi/sharefiles_cgi.c:406]--sql_num = 1, redis_num = 2
+[2021-07-27 14:02:29]--[src_cgi/sharefiles_cgi.c:420]--select md5, file_name, pv from share_file_list order by pv desc 在操作
+[2021-07-27 14:02:29]--[src_cgi/sharefiles_cgi.c:536]--{
+	"files":	[{
+			"filename":	"0.png",
+			"pv":	0
+		}]
+}
+[2021-07-27 14:06:40]--[src_cgi/sharefiles_cgi.c:605]--cmd = count
+[2021-07-27 14:06:40]--[src_cgi/sharefiles_cgi.c:84]--line = 1
+[2021-07-27 14:06:40]--[src_cgi/sharefiles_cgi.c:605]--cmd = pvdesc
+[2021-07-27 14:06:40]--[src_cgi/sharefiles_cgi.c:643]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2021-07-27 14:06:40]--[src_cgi/sharefiles_cgi.c:652]--start = 0, count = 1
+[2021-07-27 14:06:40]--[src_cgi/sharefiles_cgi.c:406]--sql_num = 1, redis_num = 1
+[2021-07-27 14:06:40]--[src_cgi/sharefiles_cgi.c:536]--{
+	"files":	[{
+			"filename":	"0.png",
+			"pv":	0
+		}]
+}
+[2021-07-27 14:14:59]--[src_cgi/sharefiles_cgi.c:605]--cmd = count
+[2021-07-27 14:14:59]--[src_cgi/sharefiles_cgi.c:84]--line = 3
+[2021-07-27 14:14:59]--[src_cgi/sharefiles_cgi.c:605]--cmd = pvdesc
+[2021-07-27 14:14:59]--[src_cgi/sharefiles_cgi.c:643]--buf = {
+    "count": 3,
+    "start": 0
+}
+
+[2021-07-27 14:14:59]--[src_cgi/sharefiles_cgi.c:652]--start = 0, count = 3
+[2021-07-27 14:14:59]--[src_cgi/sharefiles_cgi.c:406]--sql_num = 3, redis_num = 3
+[2021-07-27 14:14:59]--[src_cgi/sharefiles_cgi.c:536]--{
+	"files":	[{
+			"filename":	"test0727-1.txt",
+			"pv":	0
+		}, {
+			"filename":	"0.png",
+			"pv":	0
+		}, {
+			"filename":	"test0726-1.txt",
+			"pv":	0
+		}]
+}
+[2021-07-27 14:15:10]--[src_cgi/sharefiles_cgi.c:605]--cmd = count
+[2021-07-27 14:15:10]--[src_cgi/sharefiles_cgi.c:84]--line = 3
+[2021-07-27 14:15:10]--[src_cgi/sharefiles_cgi.c:605]--cmd = pvdesc
+[2021-07-27 14:15:10]--[src_cgi/sharefiles_cgi.c:643]--buf = {
+    "count": 3,
+    "start": 0
+}
+
+[2021-07-27 14:15:10]--[src_cgi/sharefiles_cgi.c:652]--start = 0, count = 3
+[2021-07-27 14:15:10]--[src_cgi/sharefiles_cgi.c:406]--sql_num = 3, redis_num = 3
+[2021-07-27 14:15:10]--[src_cgi/sharefiles_cgi.c:536]--{
+	"files":	[{
+			"filename":	"test0727-1.txt",
+			"pv":	0
+		}, {
+			"filename":	"0.png",
+			"pv":	0
+		}, {
+			"filename":	"test0726-1.txt",
+			"pv":	0
+		}]
+}
+[2021-07-27 14:15:11]--[src_cgi/sharefiles_cgi.c:605]--cmd = count
+[2021-07-27 14:15:11]--[src_cgi/sharefiles_cgi.c:84]--line = 3
+[2021-07-27 14:15:11]--[src_cgi/sharefiles_cgi.c:605]--cmd = normal
+[2021-07-27 14:15:11]--[src_cgi/sharefiles_cgi.c:643]--buf = {
+    "count": 3,
+    "start": 0
+}
+
+[2021-07-27 14:15:11]--[src_cgi/sharefiles_cgi.c:652]--start = 0, count = 3
+[2021-07-27 14:15:11]--[src_cgi/sharefiles_cgi.c:171]--select share_file_list.*, file_info.url, file_info.size, file_info.type from file_info, share_file_list where file_info.md5 = share_file_list.md5 limit 0, 3 在操作
+[2021-07-27 14:15:11]--[src_cgi/sharefiles_cgi.c:299]--{
+	"files":	[{
+			"user":	"liult",
+			"md5":	"432cdd8b15f44128ab9ce0dffa305fbc",
+			"file_name":	"test0726-1.txt",
+			"share_status":	1,
+			"pv":	0,
+			"create_time":	"2021-07-27 14:14:57",
+			"url":	"http://172.20.248.167:80/group1/M00/00/00/rBT4p2D-uPuAZVWkAAAAM0hFvw4033.txt",
+			"size":	51,
+			"type":	"txt"
+		}, {
+			"user":	"liult",
+			"md5":	"71dc5528330519165801195652e67d2c",
+			"file_name":	"0.png",
+			"share_status":	1,
+			"pv":	0,
+			"create_time":	"2021-07-27 12:36:22",
+			"url":	"http://172.20.248.167:80/group1/M00/00/00/rBT4p2D-uj-AHy60AAEIYarYfbA403.png",
+			"size":	67681,
+			"type":	"png"
+		}, {
+			"user":	"liult",
+			"md5":	"d64216f4a43994876e37f6ce2203501c",
+			"file_name":	"test0727-1.txt",
+			"share_status":	1,
+			"pv":	0,
+			"create_time":	"2021-07-27 14:14:54",
+			"url":	"http://172.20.248.167:80/group1/M00/00/00/rBT4p2D_WZ6AKMCoAAAAEsUG-S8344.txt",
+			"size":	18,
+			"type":	"txt"
+		}]
+}
+[2021-07-27 14:15:47]--[src_cgi/sharefiles_cgi.c:605]--cmd = count
+[2021-07-27 14:15:47]--[src_cgi/sharefiles_cgi.c:84]--line = 3
+[2021-07-27 14:15:47]--[src_cgi/sharefiles_cgi.c:605]--cmd = pvdesc
+[2021-07-27 14:15:47]--[src_cgi/sharefiles_cgi.c:643]--buf = {
+    "count": 3,
+    "start": 0
+}
+
+[2021-07-27 14:15:47]--[src_cgi/sharefiles_cgi.c:652]--start = 0, count = 3
+[2021-07-27 14:15:47]--[src_cgi/sharefiles_cgi.c:406]--sql_num = 3, redis_num = 3
+[2021-07-27 14:15:47]--[src_cgi/sharefiles_cgi.c:536]--{
+	"files":	[{
+			"filename":	"test0727-1.txt",
+			"pv":	0
+		}, {
+			"filename":	"0.png",
+			"pv":	0
+		}, {
+			"filename":	"test0726-1.txt",
+			"pv":	0
+		}]
+}
+[2021-07-27 14:16:02]--[src_cgi/sharefiles_cgi.c:605]--cmd = count
+[2021-07-27 14:16:02]--[src_cgi/sharefiles_cgi.c:84]--line = 3
+[2021-07-27 14:16:02]--[src_cgi/sharefiles_cgi.c:605]--cmd = pvdesc
+[2021-07-27 14:16:02]--[src_cgi/sharefiles_cgi.c:643]--buf = {
+    "count": 3,
+    "start": 0
+}
+
+[2021-07-27 14:16:02]--[src_cgi/sharefiles_cgi.c:652]--start = 0, count = 3
+[2021-07-27 14:16:02]--[src_cgi/sharefiles_cgi.c:406]--sql_num = 3, redis_num = 3
+[2021-07-27 14:16:02]--[src_cgi/sharefiles_cgi.c:536]--{
+	"files":	[{
+			"filename":	"0.png",
+			"pv":	1
+		}, {
+			"filename":	"test0727-1.txt",
+			"pv":	0
+		}, {
+			"filename":	"test0726-1.txt",
+			"pv":	0
+		}]
+}
+[2021-07-27 18:26:29]--[src_cgi/sharefiles_cgi.c:41]--mysql:[user=root,pwd=123,database=0voice_cloud_disk][2021-07-27 18:26:29]--[src_cgi/sharefiles_cgi.c:46]--redis:[ip=127.0.0.1,port=6379]
+[2021-07-27 18:28:50]--[src_cgi/sharefiles_cgi.c:41]--mysql:[user=root,pwd=123,database=0voice_cloud_disk][2021-07-27 18:28:50]--[src_cgi/sharefiles_cgi.c:46]--redis:[ip=127.0.0.1,port=6379]
+[2021-07-27 18:29:44]--[src_cgi/sharefiles_cgi.c:605]--cmd = count
+[2021-07-27 18:29:44]--[src_cgi/sharefiles_cgi.c:84]--line = 3
+[2021-07-27 18:29:44]--[src_cgi/sharefiles_cgi.c:605]--cmd = pvdesc
+[2021-07-27 18:29:44]--[src_cgi/sharefiles_cgi.c:643]--buf = {
+    "count": 3,
+    "start": 0
+}
+
+[2021-07-27 18:29:44]--[src_cgi/sharefiles_cgi.c:652]--start = 0, count = 3
+[2021-07-27 18:29:44]--[src_cgi/sharefiles_cgi.c:406]--sql_num = 3, redis_num = 3
+[2021-07-27 18:29:44]--[src_cgi/sharefiles_cgi.c:536]--{
+	"files":	[{
+			"filename":	"0.png",
+			"pv":	1
+		}, {
+			"filename":	"test0727-1.txt",
+			"pv":	0
+		}, {
+			"filename":	"test0726-1.txt",
+			"pv":	0
+		}]
+}
+[2021-07-27 18:29:45]--[src_cgi/sharefiles_cgi.c:605]--cmd = count
+[2021-07-27 18:29:45]--[src_cgi/sharefiles_cgi.c:84]--line = 3
+[2021-07-27 18:29:45]--[src_cgi/sharefiles_cgi.c:605]--cmd = normal
+[2021-07-27 18:29:45]--[src_cgi/sharefiles_cgi.c:643]--buf = {
+    "count": 3,
+    "start": 0
+}
+
+[2021-07-27 18:29:45]--[src_cgi/sharefiles_cgi.c:652]--start = 0, count = 3
+[2021-07-27 18:29:45]--[src_cgi/sharefiles_cgi.c:171]--select share_file_list.*, file_info.url, file_info.size, file_info.type from file_info, share_file_list where file_info.md5 = share_file_list.md5 limit 0, 3 在操作
+[2021-07-27 18:29:45]--[src_cgi/sharefiles_cgi.c:299]--{
+	"files":	[{
+			"user":	"liult",
+			"md5":	"432cdd8b15f44128ab9ce0dffa305fbc",
+			"file_name":	"test0726-1.txt",
+			"share_status":	1,
+			"pv":	0,
+			"create_time":	"2021-07-27 14:14:57",
+			"url":	"http://172.20.248.167:80/group1/M00/00/00/rBT4p2D-uPuAZVWkAAAAM0hFvw4033.txt",
+			"size":	51,
+			"type":	"txt"
+		}, {
+			"user":	"liult",
+			"md5":	"71dc5528330519165801195652e67d2c",
+			"file_name":	"0.png",
+			"share_status":	1,
+			"pv":	1,
+			"create_time":	"2021-07-27 12:36:22",
+			"url":	"http://172.20.248.167:80/group1/M00/00/00/rBT4p2D-uj-AHy60AAEIYarYfbA403.png",
+			"size":	67681,
+			"type":	"png"
+		}, {
+			"user":	"liult",
+			"md5":	"d64216f4a43994876e37f6ce2203501c",
+			"file_name":	"test0727-1.txt",
+			"share_status":	1,
+			"pv":	0,
+			"create_time":	"2021-07-27 14:14:54",
+			"url":	"http://172.20.248.167:80/group1/M00/00/00/rBT4p2D_WZ6AKMCoAAAAEsUG-S8344.txt",
+			"size":	18,
+			"type":	"txt"
+		}]
+}
+[2021-07-27 18:29:46]--[src_cgi/sharefiles_cgi.c:605]--cmd = count
+[2021-07-27 18:29:46]--[src_cgi/sharefiles_cgi.c:84]--line = 3
+[2021-07-27 18:29:46]--[src_cgi/sharefiles_cgi.c:605]--cmd = pvdesc
+[2021-07-27 18:29:46]--[src_cgi/sharefiles_cgi.c:643]--buf = {
+    "count": 3,
+    "start": 0
+}
+
+[2021-07-27 18:29:46]--[src_cgi/sharefiles_cgi.c:652]--start = 0, count = 3
+[2021-07-27 18:29:46]--[src_cgi/sharefiles_cgi.c:406]--sql_num = 3, redis_num = 3
+[2021-07-27 18:29:46]--[src_cgi/sharefiles_cgi.c:536]--{
+	"files":	[{
+			"filename":	"0.png",
+			"pv":	1
+		}, {
+			"filename":	"test0727-1.txt",
+			"pv":	0
+		}, {
+			"filename":	"test0726-1.txt",
+			"pv":	0
+		}]
+}
+[2021-07-27 18:30:06]--[src_cgi/sharefiles_cgi.c:605]--cmd = count
+[2021-07-27 18:30:06]--[src_cgi/sharefiles_cgi.c:84]--line = 3
+[2021-07-27 18:30:06]--[src_cgi/sharefiles_cgi.c:605]--cmd = normal
+[2021-07-27 18:30:06]--[src_cgi/sharefiles_cgi.c:643]--buf = {
+    "count": 3,
+    "start": 0
+}
+
+[2021-07-27 18:30:06]--[src_cgi/sharefiles_cgi.c:652]--start = 0, count = 3
+[2021-07-27 18:30:06]--[src_cgi/sharefiles_cgi.c:171]--select share_file_list.*, file_info.url, file_info.size, file_info.type from file_info, share_file_list where file_info.md5 = share_file_list.md5 limit 0, 3 在操作
+[2021-07-27 18:30:06]--[src_cgi/sharefiles_cgi.c:299]--{
+	"files":	[{
+			"user":	"liult",
+			"md5":	"432cdd8b15f44128ab9ce0dffa305fbc",
+			"file_name":	"test0726-1.txt",
+			"share_status":	1,
+			"pv":	0,
+			"create_time":	"2021-07-27 14:14:57",
+			"url":	"http://172.20.248.167:80/group1/M00/00/00/rBT4p2D-uPuAZVWkAAAAM0hFvw4033.txt",
+			"size":	51,
+			"type":	"txt"
+		}, {
+			"user":	"liult",
+			"md5":	"71dc5528330519165801195652e67d2c",
+			"file_name":	"0.png",
+			"share_status":	1,
+			"pv":	1,
+			"create_time":	"2021-07-27 12:36:22",
+			"url":	"http://172.20.248.167:80/group1/M00/00/00/rBT4p2D-uj-AHy60AAEIYarYfbA403.png",
+			"size":	67681,
+			"type":	"png"
+		}, {
+			"user":	"liult",
+			"md5":	"d64216f4a43994876e37f6ce2203501c",
+			"file_name":	"test0727-1.txt",
+			"share_status":	1,
+			"pv":	0,
+			"create_time":	"2021-07-27 14:14:54",
+			"url":	"http://172.20.248.167:80/group1/M00/00/00/rBT4p2D_WZ6AKMCoAAAAEsUG-S8344.txt",
+			"size":	18,
+			"type":	"txt"
+		}]
+}
+[2021-07-27 18:33:52]--[src_cgi/sharefiles_cgi.c:41]--mysql:[user=root,pwd=123,database=0voice_cloud_disk][2021-07-27 18:33:52]--[src_cgi/sharefiles_cgi.c:46]--redis:[ip=127.0.0.1,port=6379]
+[2021-07-27 18:42:46]--[src_cgi/sharefiles_cgi.c:41]--mysql:[user=root,pwd=123,database=0voice_cloud_disk][2021-07-27 18:42:46]--[src_cgi/sharefiles_cgi.c:46]--redis:[ip=127.0.0.1,port=6379]
+[2021-07-27 18:43:08]--[src_cgi/sharefiles_cgi.c:605]--cmd = count
+[2021-07-27 18:43:08]--[src_cgi/sharefiles_cgi.c:84]--line = 3
+[2021-07-27 18:43:08]--[src_cgi/sharefiles_cgi.c:605]--cmd = pvdesc
+[2021-07-27 18:43:08]--[src_cgi/sharefiles_cgi.c:643]--buf = {
+    "count": 3,
+    "start": 0
+}
+
+[2021-07-27 18:43:08]--[src_cgi/sharefiles_cgi.c:652]--start = 0, count = 3
+[2021-07-27 18:43:08]--[src_cgi/sharefiles_cgi.c:406]--sql_num = 3, redis_num = 3
+[2021-07-27 18:43:08]--[src_cgi/sharefiles_cgi.c:536]--{
+	"files":	[{
+			"filename":	"0.png",
+			"pv":	1
+		}, {
+			"filename":	"test0727-1.txt",
+			"pv":	0
+		}, {
+			"filename":	"test0726-1.txt",
+			"pv":	0
+		}]
+}
+[2021-07-27 18:43:19]--[src_cgi/sharefiles_cgi.c:605]--cmd = count
+[2021-07-27 18:43:19]--[src_cgi/sharefiles_cgi.c:84]--line = 3
+[2021-07-27 18:43:19]--[src_cgi/sharefiles_cgi.c:605]--cmd = pvdesc
+[2021-07-27 18:43:19]--[src_cgi/sharefiles_cgi.c:643]--buf = {
+    "count": 3,
+    "start": 0
+}
+
+[2021-07-27 18:43:19]--[src_cgi/sharefiles_cgi.c:652]--start = 0, count = 3
+[2021-07-27 18:43:19]--[src_cgi/sharefiles_cgi.c:406]--sql_num = 3, redis_num = 3
+[2021-07-27 18:43:19]--[src_cgi/sharefiles_cgi.c:536]--{
+	"files":	[{
+			"filename":	"0.png",
+			"pv":	1
+		}, {
+			"filename":	"test0727-1.txt",
+			"pv":	0
+		}, {
+			"filename":	"test0726-1.txt",
+			"pv":	0
+		}]
+}

@@ -1,0 +1,9 @@
+[2021-10-03 14:12:49]--[/root/cmake_test/cloud-disk/src_cgi/myfiles_cgi.c:39]--mysql:[user=root,pwd=123,database=0voice_cloud_disk][2021-10-03 14:12:59]--[/root/cmake_test/cloud-disk/src_cgi/myfiles_cgi.c:546]--cmd = count
+[2021-10-03 14:12:59]--[/root/cmake_test/cloud-disk/src_cgi/myfiles_cgi.c:578]--buf = {
+    "token": "93787e4870b2ecf4667862543418ef7f",
+    "user": "liult"
+}
+
+[2021-10-03 14:12:59]--[/root/cmake_test/cloud-disk/src_cgi/myfiles_cgi.c:163]--select 'count' from user_file_count where 'user'='liult' 操作失败
+[2021-10-03 14:12:59]--[/root/cmake_test/cloud-disk/src_cgi/myfiles_cgi.c:175]--line = 0
+[2021-10-03 14:34:59]--[/root/cmake_test/cloud-disk/src_cgi/myfiles_cgi.c:39]--mysql:[user=root,pwd=123,database=0voice_cloud_disk]

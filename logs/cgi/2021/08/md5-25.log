@@ -1,0 +1,25 @@
+[2021-08-25 10:08:27]--[src_cgi/md5_cgi.c:337]--buf = {
+    "fileName": "bazel1.png",
+    "md5": "17669b63cad4793b285b61ccb1df7f46",
+    "token": "3a05fd00a155b53039919abee289afb7",
+    "user": "milo"
+}
+
+[2021-08-25 10:08:27]--[src_cgi/md5_cgi.c:359]--user = milo, token = 3a05fd00a155b53039919abee289afb7, md5 = 17669b63cad4793b285b61ccb1df7f46, filename = bazel1.png
+[2021-08-25 10:08:57]--[src_cgi/md5_cgi.c:337]--buf = {
+    "fileName": "python2.png",
+    "md5": "dcfe30f02e1e5557f4e327c08eadb3d4",
+    "token": "3a05fd00a155b53039919abee289afb7",
+    "user": "milo"
+}
+
+[2021-08-25 10:08:57]--[src_cgi/md5_cgi.c:359]--user = milo, token = 3a05fd00a155b53039919abee289afb7, md5 = dcfe30f02e1e5557f4e327c08eadb3d4, filename = python2.png
+[2021-08-25 10:25:51]--[src_cgi/md5_cgi.c:337]--buf = {
+    "fileName": "bazel1.png",
+    "md5": "17669b63cad4793b285b61ccb1df7f46",
+    "token": "3a05fd00a155b53039919abee289afb7",
+    "user": "milo"
+}
+
+[2021-08-25 10:25:51]--[src_cgi/md5_cgi.c:359]--user = milo, token = 3a05fd00a155b53039919abee289afb7, md5 = 17669b63cad4793b285b61ccb1df7f46, filename = bazel1.png
+[2021-08-25 10:25:51]--[src_cgi/md5_cgi.c:183]--milo[filename:bazel1.png, md5:17669b63cad4793b285b61ccb1df7f46]已存在

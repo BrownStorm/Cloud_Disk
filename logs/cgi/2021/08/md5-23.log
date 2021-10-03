@@ -1,0 +1,8 @@
+[2021-08-23 20:07:56]--[src_cgi/md5_cgi.c:337]--buf = {
+    "fileName": "新建文本文档.txt",
+    "md5": "8b110e6b9b31ab66028406cf26cbfb49",
+    "token": "a1938422f12c17bd542687340e75801b",
+    "user": "liult"
+}
+
+[2021-08-23 20:07:56]--[src_cgi/md5_cgi.c:359]--user = liult, token = a1938422f12c17bd542687340e75801b, md5 = 8b110e6b9b31ab66028406cf26cbfb49, filename = 新建文本文档.txt

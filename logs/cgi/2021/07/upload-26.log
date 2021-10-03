@@ -1,0 +1,30 @@
+[2021-07-26 21:30:02]--[src_cgi/upload_cgi.c:666]--CONTENT_LENGTH:242
+[2021-07-26 21:30:02]--[src_cgi/upload_cgi.c:682]--开始上传[, 大小：242]到本地
+[2021-07-26 21:30:02]--[src_cgi/upload_cgi.c:118]--boundary: [------WebKitFormBoundaryUjIqgNWL2a1OI;3H]
+[2021-07-26 21:30:02]--[src_cgi/upload_cgi.c:138]--content_text: [Content-Disposition: form-data; user="liult" filename="test0726.txt" md5="d41d8cd98f00b204e9800998ecf8427e" size=0]
+[2021-07-26 21:30:02]--[src_cgi/upload_cgi.c:261]--start open test0726.txt
+[2021-07-26 21:30:02]--[src_cgi/upload_cgi.c:271]--write test0726.txt len 0
+[2021-07-26 21:30:02]--[src_cgi/upload_cgi.c:690]--liult成功上传[test0726.txt, 大小：0, md5码：d41d8cd98f00b204e9800998ecf8427e]到本地
+[2021-07-26 21:30:02]--[src_cgi/upload_cgi.c:421]--get [group1/M00/00/00/rBT4p2D-uNqAc4llAAAAAAAAAAA658.txt] succ!
+[2021-07-26 21:30:02]--[src_cgi/upload_cgi.c:530]--file url is: http://172.20.248.167:80/group1/M00/00/00/rBT4p2D-uNqAc4llAAAAAAAAAAA658.txt
+[2021-07-26 21:30:02]--[src_cgi/upload_cgi.c:584]--insert into file_info (md5, file_id, url, size, type, count) values ('d41d8cd98f00b204e9800998ecf8427e', 'group1/M00/00/00/rBT4p2D-uNqAc4llAAAAAAAAAAA658.txt', 'http://172.20.248.167:80/group1/M00/00/00/rBT4p2D-uNqAc4llAAAAAAAAAAA658.txt', '0', 'txt', 1) 文件信息插入成功
+[2021-07-26 21:30:35]--[src_cgi/upload_cgi.c:666]--CONTENT_LENGTH:296
+[2021-07-26 21:30:35]--[src_cgi/upload_cgi.c:682]--开始上传[, 大小：296]到本地
+[2021-07-26 21:30:35]--[src_cgi/upload_cgi.c:118]--boundary: [------WebKitFormBoundaryw5?XLD6NHm44B9e[]
+[2021-07-26 21:30:35]--[src_cgi/upload_cgi.c:138]--content_text: [Content-Disposition: form-data; user="liult" filename="test0726-1.txt" md5="432cdd8b15f44128ab9ce0dffa305fbc" size=51]
+[2021-07-26 21:30:35]--[src_cgi/upload_cgi.c:261]--start open test0726-1.txt
+[2021-07-26 21:30:35]--[src_cgi/upload_cgi.c:271]--write test0726-1.txt len 51
+[2021-07-26 21:30:35]--[src_cgi/upload_cgi.c:690]--liult成功上传[test0726-1.txt, 大小：51, md5码：432cdd8b15f44128ab9ce0dffa305fbc]到本地
+[2021-07-26 21:30:35]--[src_cgi/upload_cgi.c:421]--get [group1/M00/00/00/rBT4p2D-uPuAZVWkAAAAM0hFvw4033.txt] succ!
+[2021-07-26 21:30:35]--[src_cgi/upload_cgi.c:530]--file url is: http://172.20.248.167:80/group1/M00/00/00/rBT4p2D-uPuAZVWkAAAAM0hFvw4033.txt
+[2021-07-26 21:30:35]--[src_cgi/upload_cgi.c:584]--insert into file_info (md5, file_id, url, size, type, count) values ('432cdd8b15f44128ab9ce0dffa305fbc', 'group1/M00/00/00/rBT4p2D-uPuAZVWkAAAAM0hFvw4033.txt', 'http://172.20.248.167:80/group1/M00/00/00/rBT4p2D-uPuAZVWkAAAAM0hFvw4033.txt', '51', 'txt', 1) 文件信息插入成功
+[2021-07-26 21:35:59]--[src_cgi/upload_cgi.c:666]--CONTENT_LENGTH:67920
+[2021-07-26 21:35:59]--[src_cgi/upload_cgi.c:682]--开始上传[, 大小：67920]到本地
+[2021-07-26 21:35:59]--[src_cgi/upload_cgi.c:118]--boundary: [------WebKitFormBoundaryCsjbjJP?IeE84A1`]
+[2021-07-26 21:35:59]--[src_cgi/upload_cgi.c:138]--content_text: [Content-Disposition: form-data; user="liult" filename="0.png" md5="71dc5528330519165801195652e67d2c" size=67681]
+[2021-07-26 21:35:59]--[src_cgi/upload_cgi.c:261]--start open 0.png
+[2021-07-26 21:35:59]--[src_cgi/upload_cgi.c:271]--write 0.png len 67681
+[2021-07-26 21:35:59]--[src_cgi/upload_cgi.c:690]--liult成功上传[0.png, 大小：67681, md5码：71dc5528330519165801195652e67d2c]到本地
+[2021-07-26 21:35:59]--[src_cgi/upload_cgi.c:421]--get [group1/M00/00/00/rBT4p2D-uj-AHy60AAEIYarYfbA403.png] succ!
+[2021-07-26 21:35:59]--[src_cgi/upload_cgi.c:530]--file url is: http://172.20.248.167:80/group1/M00/00/00/rBT4p2D-uj-AHy60AAEIYarYfbA403.png
+[2021-07-26 21:35:59]--[src_cgi/upload_cgi.c:584]--insert into file_info (md5, file_id, url, size, type, count) values ('71dc5528330519165801195652e67d2c', 'group1/M00/00/00/rBT4p2D-uj-AHy60AAEIYarYfbA403.png', 'http://172.20.248.167:80/group1/M00/00/00/rBT4p2D-uj-AHy60AAEIYarYfbA403.png', '67681', 'png', 1) 文件信息插入成功

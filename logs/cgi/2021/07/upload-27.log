@@ -1,0 +1,38 @@
+[2021-07-27 08:17:12]--[src_cgi/upload_cgi.c:43]--mysql:[user=root,pwd=123,database=0voice_cloud_disk][2021-07-27 08:46:10]--[src_cgi/upload_cgi.c:43]--mysql:[user=root,pwd=123,database=0voice_cloud_disk][2021-07-27 08:54:20]--[src_cgi/upload_cgi.c:43]--mysql:[user=root,pwd=123,database=0voice_cloud_disk][2021-07-27 08:55:58]--[src_cgi/upload_cgi.c:666]--CONTENT_LENGTH:263
+[2021-07-27 08:55:58]--[src_cgi/upload_cgi.c:682]--开始上传[, 大小：263]到本地
+[2021-07-27 08:55:58]--[src_cgi/upload_cgi.c:118]--boundary: [------WebKitFormBoundary81M]LcxH1^P8[:vL]
+[2021-07-27 08:55:58]--[src_cgi/upload_cgi.c:138]--content_text: [Content-Disposition: form-data; user="liult" filename="test0727-1.txt" md5="d64216f4a43994876e37f6ce2203501c" size=18]
+[2021-07-27 08:55:58]--[src_cgi/upload_cgi.c:261]--start open test0727-1.txt
+[2021-07-27 08:55:58]--[src_cgi/upload_cgi.c:271]--write test0727-1.txt len 18
+[2021-07-27 08:55:58]--[src_cgi/upload_cgi.c:690]--liult成功上传[test0727-1.txt, 大小：18, md5码：d64216f4a43994876e37f6ce2203501c]到本地
+[2021-07-27 08:55:58]--[src_cgi/upload_cgi.c:421]--get [group1/M00/00/00/rBT4p2D_WZ6AKMCoAAAAEsUG-S8344.txt] succ!
+[2021-07-27 08:55:58]--[src_cgi/upload_cgi.c:530]--file url is: http://172.20.248.167:80/group1/M00/00/00/rBT4p2D_WZ6AKMCoAAAAEsUG-S8344.txt
+[2021-07-27 08:55:58]--[src_cgi/upload_cgi.c:584]--insert into file_info (md5, file_id, url, size, type, count) values ('d64216f4a43994876e37f6ce2203501c', 'group1/M00/00/00/rBT4p2D_WZ6AKMCoAAAAEsUG-S8344.txt', 'http://172.20.248.167:80/group1/M00/00/00/rBT4p2D_WZ6AKMCoAAAAEsUG-S8344.txt', '18', 'txt', 1) 文件信息插入成功
+[2021-07-27 09:05:29]--[src_cgi/upload_cgi.c:43]--mysql:[user=root,pwd=123,database=0voice_cloud_disk][2021-07-27 09:06:35]--[src_cgi/upload_cgi.c:43]--mysql:[user=root,pwd=123,database=0voice_cloud_disk][2021-07-27 09:06:58]--[src_cgi/upload_cgi.c:43]--mysql:[user=root,pwd=123,database=0voice_cloud_disk][2021-07-27 09:07:31]--[src_cgi/upload_cgi.c:43]--mysql:[user=root,pwd=123,database=0voice_cloud_disk][2021-07-27 09:08:50]--[src_cgi/upload_cgi.c:43]--mysql:[user=root,pwd=123,database=0voice_cloud_disk][2021-07-27 09:09:54]--[src_cgi/upload_cgi.c:43]--mysql:[user=root,pwd=123,database=0voice_cloud_disk][2021-07-27 09:10:16]--[src_cgi/upload_cgi.c:43]--mysql:[user=root,pwd=123,database=0voice_cloud_disk][2021-07-27 09:10:56]--[src_cgi/upload_cgi.c:43]--mysql:[user=root,pwd=123,database=0voice_cloud_disk][2021-07-27 09:11:17]--[src_cgi/upload_cgi.c:43]--mysql:[user=root,pwd=123,database=0voice_cloud_disk][2021-07-27 09:52:33]--[src_cgi/upload_cgi.c:43]--mysql:[user=root,pwd=123,database=0voice_cloud_disk][2021-07-27 09:56:43]--[src_cgi/upload_cgi.c:43]--mysql:[user=root,pwd=123,database=0voice_cloud_disk][2021-07-27 09:59:23]--[src_cgi/upload_cgi.c:43]--mysql:[user=root,pwd=123,database=0voice_cloud_disk][2021-07-27 09:59:49]--[src_cgi/upload_cgi.c:43]--mysql:[user=root,pwd=123,database=0voice_cloud_disk][2021-07-27 10:03:53]--[src_cgi/upload_cgi.c:43]--mysql:[user=root,pwd=123,database=0voice_cloud_disk][2021-07-27 10:04:03]--[src_cgi/upload_cgi.c:43]--mysql:[user=root,pwd=123,database=0voice_cloud_disk][2021-07-27 10:04:20]--[src_cgi/upload_cgi.c:43]--mysql:[user=root,pwd=123,database=0voice_cloud_disk][2021-07-27 10:06:15]--[src_cgi/upload_cgi.c:43]--mysql:[user=root,pwd=123,database=0voice_cloud_disk][2021-07-27 10:09:35]--[src_cgi/upload_cgi.c:43]--mysql:[user=root,pwd=123,database=0voice_cloud_disk][2021-07-27 10:19:32]--[src_cgi/upload_cgi.c:43]--mysql:[user=root,pwd=123,database=0voice_cloud_disk][2021-07-27 10:31:22]--[src_cgi/upload_cgi.c:43]--mysql:[user=root,pwd=123,database=0voice_cloud_disk][2021-07-27 11:05:07]--[src_cgi/upload_cgi.c:43]--mysql:[user=root,pwd=123,database=0voice_cloud_disk][2021-07-27 11:06:34]--[src_cgi/upload_cgi.c:43]--mysql:[user=root,pwd=123,database=0voice_cloud_disk][2021-07-27 11:10:21]--[src_cgi/upload_cgi.c:43]--mysql:[user=root,pwd=123,database=0voice_cloud_disk][2021-07-27 12:09:06]--[src_cgi/upload_cgi.c:666]--CONTENT_LENGTH:35719
+[2021-07-27 12:09:06]--[src_cgi/upload_cgi.c:682]--开始上传[, 大小：35719]到本地
+[2021-07-27 12:09:06]--[src_cgi/upload_cgi.c:118]--boundary: [------WebKitFormBoundarybR>Sv:D7S;7O0FLj]
+[2021-07-27 12:09:06]--[src_cgi/upload_cgi.c:138]--content_text: [Content-Disposition: form-data; user="caokf" filename="1-1.bmp" md5="a0975080cdcffa9d106f0b9e5de48e1e" size=35478]
+[2021-07-27 12:09:06]--[src_cgi/upload_cgi.c:261]--start open 1-1.bmp
+[2021-07-27 12:09:06]--[src_cgi/upload_cgi.c:271]--write 1-1.bmp len 35478
+[2021-07-27 12:09:06]--[src_cgi/upload_cgi.c:690]--caokf成功上传[1-1.bmp, 大小：35478, md5码：a0975080cdcffa9d106f0b9e5de48e1e]到本地
+[2021-07-27 12:09:06]--[src_cgi/upload_cgi.c:416]--[upload FAILED!]
+[2021-07-27 18:26:29]--[src_cgi/upload_cgi.c:43]--mysql:[user=root,pwd=123,database=0voice_cloud_disk][2021-07-27 18:28:49]--[src_cgi/upload_cgi.c:43]--mysql:[user=root,pwd=123,database=0voice_cloud_disk][2021-07-27 18:30:05]--[src_cgi/upload_cgi.c:672]--CONTENT_LENGTH:36920
+[2021-07-27 18:30:05]--[src_cgi/upload_cgi.c:688]--开始上传[, 大小：36920]到本地
+[2021-07-27 18:30:05]--[src_cgi/upload_cgi.c:119]--boundary: [------WebKitFormBoundaryh[\dZJqEtQ\u3q5W]
+[2021-07-27 18:30:05]--[src_cgi/upload_cgi.c:139]--content_text: [Content-Disposition: form-data; user="liult" filename="bazel1.png" md5="17669b63cad4793b285b61ccb1df7f46" size=36676]
+[2021-07-27 18:30:05]--[src_cgi/upload_cgi.c:262]--start open bazel1.png
+[2021-07-27 18:30:05]--[src_cgi/upload_cgi.c:272]--write bazel1.png len 36676
+[2021-07-27 18:30:05]--[src_cgi/upload_cgi.c:696]--liult成功上传[bazel1.png, 大小：36676, md5码：17669b63cad4793b285b61ccb1df7f46]到本地
+[2021-07-27 18:30:05]--[src_cgi/upload_cgi.c:424]--get [group1/M00/00/00/rBT4p2D_4C2ActHRAACPRAVTRKk238.png]!
+[2021-07-27 18:30:05]--[src_cgi/upload_cgi.c:536]--file url is: http://47.108.75.171:80/group1/M00/00/00/rBT4p2D_4C2ActHRAACPRAVTRKk238.png
+[2021-07-27 18:30:05]--[src_cgi/upload_cgi.c:590]--insert into file_info (md5, file_id, url, size, type, count) values ('17669b63cad4793b285b61ccb1df7f46', 'group1/M00/00/00/rBT4p2D_4C2ActHRAACPRAVTRKk238.png', 'http://47.108.75.171:80/group1/M00/00/00/rBT4p2D_4C2ActHRAACPRAVTRKk238.png', '36676', 'png', 1) 文件信息插入成功
+[2021-07-27 18:33:52]--[src_cgi/upload_cgi.c:43]--mysql:[user=root,pwd=123,database=0voice_cloud_disk][2021-07-27 18:42:46]--[src_cgi/upload_cgi.c:43]--mysql:[user=root,pwd=123,database=0voice_cloud_disk][2021-07-27 18:43:06]--[src_cgi/upload_cgi.c:675]--CONTENT_LENGTH:38942
+[2021-07-27 18:43:06]--[src_cgi/upload_cgi.c:691]--开始上传[, 大小：38942]到本地
+[2021-07-27 18:43:06]--[src_cgi/upload_cgi.c:119]--boundary: [------WebKitFormBoundaryDe2yC9tpld2\02VF]
+[2021-07-27 18:43:06]--[src_cgi/upload_cgi.c:139]--content_text: [Content-Disposition: form-data; user="liult" filename="bazel2.png" md5="79ae4d9361d0b859e367006d6bbe6203" size=38698]
+[2021-07-27 18:43:06]--[src_cgi/upload_cgi.c:262]--start open bazel2.png
+[2021-07-27 18:43:06]--[src_cgi/upload_cgi.c:272]--write bazel2.png len 38698
+[2021-07-27 18:43:06]--[src_cgi/upload_cgi.c:699]--liult成功上传[bazel2.png, 大小：38698, md5码：79ae4d9361d0b859e367006d6bbe6203]到本地
+[2021-07-27 18:43:06]--[src_cgi/upload_cgi.c:424]--get [group1/M00/00/00/rBT4p2D_4zqAaPjRAACXKrLG1Nc031.png]!
+[2021-07-27 18:43:06]--[src_cgi/upload_cgi.c:539]--file url is: http://47.108.75.171:80/group1/M00/00/00/rBT4p2D_4zqAaPjRAACXKrLG1Nc031.png
+[2021-07-27 18:43:06]--[src_cgi/upload_cgi.c:593]--insert into file_info (md5, file_id, url, size, type, count) values ('79ae4d9361d0b859e367006d6bbe6203', 'group1/M00/00/00/rBT4p2D_4zqAaPjRAACXKrLG1Nc031.png', 'http://47.108.75.171:80/group1/M00/00/00/rBT4p2D_4zqAaPjRAACXKrLG1Nc031.png', '38698', 'png', 1) 文件信息插入成功

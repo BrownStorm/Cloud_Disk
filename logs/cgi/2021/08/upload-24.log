@@ -1,0 +1,10 @@
+[2021-08-24 17:00:38]--[src_cgi/upload_cgi.c:675]--CONTENT_LENGTH:4530
+[2021-08-24 17:00:38]--[src_cgi/upload_cgi.c:691]--开始上传[, 大小：4530]到本地
+[2021-08-24 17:00:38]--[src_cgi/upload_cgi.c:119]--boundary: [------WebKitFormBoundarySNZ>=mj@YAH6:Nf8]
+[2021-08-24 17:00:38]--[src_cgi/upload_cgi.c:139]--content_text: [Content-Disposition: form-data; user="liult" filename="favicon.ico" md5="d1d91fce03a7c6f84962fe61dbeb4f08" size=4286]
+[2021-08-24 17:00:38]--[src_cgi/upload_cgi.c:262]--start open favicon.ico
+[2021-08-24 17:00:38]--[src_cgi/upload_cgi.c:272]--write favicon.ico len 4286
+[2021-08-24 17:00:38]--[src_cgi/upload_cgi.c:699]--liult成功上传[favicon.ico, 大小：4286, md5码：d1d91fce03a7c6f84962fe61dbeb4f08]到本地
+[2021-08-24 17:00:38]--[src_cgi/upload_cgi.c:424]--get [group1/M00/00/00/rBT4p2EktTaAGrVvAAAQvn20nRo738.ico]!
+[2021-08-24 17:00:38]--[src_cgi/upload_cgi.c:539]--file url is: http://47.108.75.171:80/group1/M00/00/00/rBT4p2EktTaAGrVvAAAQvn20nRo738.ico
+[2021-08-24 17:00:38]--[src_cgi/upload_cgi.c:593]--insert into file_info (md5, file_id, url, size, type, count) values ('d1d91fce03a7c6f84962fe61dbeb4f08', 'group1/M00/00/00/rBT4p2EktTaAGrVvAAAQvn20nRo738.ico', 'http://47.108.75.171:80/group1/M00/00/00/rBT4p2EktTaAGrVvAAAQvn20nRo738.ico', '4286', 'ico', 1) 文件信息插入成功

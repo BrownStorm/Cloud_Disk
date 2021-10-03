@@ -1,0 +1,18 @@
+[2021-08-24 17:01:29]--[src_cgi/dealfile_cgi.c:694]--cmd = pv
+[2021-08-24 17:01:29]--[src_cgi/dealfile_cgi.c:726]--buf = {
+    "filename": "新建文本文档.txt",
+    "md5": "8b110e6b9b31ab66028406cf26cbfb49",
+    "token": "1a49ab9bfbc03a6c4c40c49329e20591",
+    "user": "liult"
+}
+
+[2021-08-24 17:01:29]--[src_cgi/dealfile_cgi.c:729]--user = liult, token = 1a49ab9bfbc03a6c4c40c49329e20591, md5 = 8b110e6b9b31ab66028406cf26cbfb49, file_name = 新建文本文档.txt
+[2021-08-24 19:08:00]--[src_cgi/dealfile_cgi.c:694]--cmd = share
+[2021-08-24 19:08:00]--[src_cgi/dealfile_cgi.c:726]--buf = {
+    "filename": "bazel2.png",
+    "md5": "79ae4d9361d0b859e367006d6bbe6203",
+    "token": "520094623adbf478c4c915929b18ca4e",
+    "user": "liult"
+}
+
+[2021-08-24 19:08:00]--[src_cgi/dealfile_cgi.c:729]--user = liult, token = 520094623adbf478c4c915929b18ca4e, md5 = 79ae4d9361d0b859e367006d6bbe6203, file_name = bazel2.png

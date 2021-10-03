@@ -1,0 +1,408 @@
+[2021-07-26 21:29:09]--[src_cgi/myfiles_cgi.c:504]--cmd = count
+[2021-07-26 21:29:09]--[src_cgi/myfiles_cgi.c:536]--buf = {
+    "token": "2b828d43bb35eca35f212053eea9c49a",
+    "user": "liult"
+}
+
+[2021-07-26 21:29:09]--[src_cgi/myfiles_cgi.c:163]--select count from user_file_count where user='liult' 操作失败
+[2021-07-26 21:29:09]--[src_cgi/myfiles_cgi.c:175]--line = 0
+[2021-07-26 21:30:14]--[src_cgi/myfiles_cgi.c:504]--cmd = count
+[2021-07-26 21:30:14]--[src_cgi/myfiles_cgi.c:536]--buf = {
+    "token": "2b828d43bb35eca35f212053eea9c49a",
+    "user": "liult"
+}
+
+[2021-07-26 21:30:14]--[src_cgi/myfiles_cgi.c:175]--line = 1
+[2021-07-26 21:30:14]--[src_cgi/myfiles_cgi.c:504]--cmd = normal
+[2021-07-26 21:30:14]--[src_cgi/myfiles_cgi.c:536]--buf = {
+    "count": 1,
+    "start": 0,
+    "token": "2b828d43bb35eca35f212053eea9c49a",
+    "user": "liult"
+}
+
+[2021-07-26 21:30:14]--[src_cgi/myfiles_cgi.c:556]--user = liult, token = 2b828d43bb35eca35f212053eea9c49a, start = 0, count = 1
+[2021-07-26 21:30:14]--[src_cgi/myfiles_cgi.c:305]--select user_file_list.*, file_info.url, file_info.size, file_info.type from file_info, user_file_list where user = 'liult' and file_info.md5 = user_file_list.md5 limit 0, 1 在操作
+[2021-07-26 21:30:14]--[src_cgi/myfiles_cgi.c:436]--{
+	"files":	[{
+			"user":	"liult",
+			"md5":	"d41d8cd98f00b204e9800998ecf8427e",
+			"create_time":	"2021-07-26 21:30:02",
+			"file_name":	"test0726.txt",
+			"share_status":	0,
+			"pv":	0,
+			"url":	"http://172.20.248.167:80/group1/M00/00/00/rBT4p2D-uNqAc4llAAAAAAAAAAA658.txt",
+			"size":	0,
+			"type":	"txt"
+		}]
+}
+[2021-07-26 21:30:41]--[src_cgi/myfiles_cgi.c:504]--cmd = count
+[2021-07-26 21:30:41]--[src_cgi/myfiles_cgi.c:536]--buf = {
+    "token": "2b828d43bb35eca35f212053eea9c49a",
+    "user": "liult"
+}
+
+[2021-07-26 21:30:41]--[src_cgi/myfiles_cgi.c:175]--line = 2
+[2021-07-26 21:30:41]--[src_cgi/myfiles_cgi.c:504]--cmd = normal
+[2021-07-26 21:30:41]--[src_cgi/myfiles_cgi.c:536]--buf = {
+    "count": 2,
+    "start": 0,
+    "token": "2b828d43bb35eca35f212053eea9c49a",
+    "user": "liult"
+}
+
+[2021-07-26 21:30:41]--[src_cgi/myfiles_cgi.c:556]--user = liult, token = 2b828d43bb35eca35f212053eea9c49a, start = 0, count = 2
+[2021-07-26 21:30:41]--[src_cgi/myfiles_cgi.c:305]--select user_file_list.*, file_info.url, file_info.size, file_info.type from file_info, user_file_list where user = 'liult' and file_info.md5 = user_file_list.md5 limit 0, 2 在操作
+[2021-07-26 21:30:41]--[src_cgi/myfiles_cgi.c:436]--{
+	"files":	[{
+			"user":	"liult",
+			"md5":	"d41d8cd98f00b204e9800998ecf8427e",
+			"create_time":	"2021-07-26 21:30:02",
+			"file_name":	"test0726.txt",
+			"share_status":	0,
+			"pv":	0,
+			"url":	"http://172.20.248.167:80/group1/M00/00/00/rBT4p2D-uNqAc4llAAAAAAAAAAA658.txt",
+			"size":	0,
+			"type":	"txt"
+		}, {
+			"user":	"liult",
+			"md5":	"432cdd8b15f44128ab9ce0dffa305fbc",
+			"create_time":	"2021-07-26 21:30:35",
+			"file_name":	"test0726-1.txt",
+			"share_status":	0,
+			"pv":	0,
+			"url":	"http://172.20.248.167:80/group1/M00/00/00/rBT4p2D-uPuAZVWkAAAAM0hFvw4033.txt",
+			"size":	51,
+			"type":	"txt"
+		}]
+}
+[2021-07-26 21:30:49]--[src_cgi/myfiles_cgi.c:504]--cmd = count
+[2021-07-26 21:30:49]--[src_cgi/myfiles_cgi.c:536]--buf = {
+    "token": "2b828d43bb35eca35f212053eea9c49a",
+    "user": "liult"
+}
+
+[2021-07-26 21:30:49]--[src_cgi/myfiles_cgi.c:175]--line = 2
+[2021-07-26 21:30:49]--[src_cgi/myfiles_cgi.c:504]--cmd = normal
+[2021-07-26 21:30:49]--[src_cgi/myfiles_cgi.c:536]--buf = {
+    "count": 2,
+    "start": 0,
+    "token": "2b828d43bb35eca35f212053eea9c49a",
+    "user": "liult"
+}
+
+[2021-07-26 21:30:49]--[src_cgi/myfiles_cgi.c:556]--user = liult, token = 2b828d43bb35eca35f212053eea9c49a, start = 0, count = 2
+[2021-07-26 21:30:49]--[src_cgi/myfiles_cgi.c:305]--select user_file_list.*, file_info.url, file_info.size, file_info.type from file_info, user_file_list where user = 'liult' and file_info.md5 = user_file_list.md5 limit 0, 2 在操作
+[2021-07-26 21:30:49]--[src_cgi/myfiles_cgi.c:436]--{
+	"files":	[{
+			"user":	"liult",
+			"md5":	"d41d8cd98f00b204e9800998ecf8427e",
+			"create_time":	"2021-07-26 21:30:02",
+			"file_name":	"test0726.txt",
+			"share_status":	0,
+			"pv":	0,
+			"url":	"http://172.20.248.167:80/group1/M00/00/00/rBT4p2D-uNqAc4llAAAAAAAAAAA658.txt",
+			"size":	0,
+			"type":	"txt"
+		}, {
+			"user":	"liult",
+			"md5":	"432cdd8b15f44128ab9ce0dffa305fbc",
+			"create_time":	"2021-07-26 21:30:35",
+			"file_name":	"test0726-1.txt",
+			"share_status":	0,
+			"pv":	0,
+			"url":	"http://172.20.248.167:80/group1/M00/00/00/rBT4p2D-uPuAZVWkAAAAM0hFvw4033.txt",
+			"size":	51,
+			"type":	"txt"
+		}]
+}
+[2021-07-26 21:32:03]--[src_cgi/myfiles_cgi.c:504]--cmd = count
+[2021-07-26 21:32:03]--[src_cgi/myfiles_cgi.c:536]--buf = {
+    "token": "67ec61d86f81649a8c17e8a2376e508f",
+    "user": "liult"
+}
+
+[2021-07-26 21:32:03]--[src_cgi/myfiles_cgi.c:175]--line = 2
+[2021-07-26 21:32:04]--[src_cgi/myfiles_cgi.c:504]--cmd = normal
+[2021-07-26 21:32:04]--[src_cgi/myfiles_cgi.c:536]--buf = {
+    "count": 2,
+    "start": 0,
+    "token": "67ec61d86f81649a8c17e8a2376e508f",
+    "user": "liult"
+}
+
+[2021-07-26 21:32:04]--[src_cgi/myfiles_cgi.c:556]--user = liult, token = 67ec61d86f81649a8c17e8a2376e508f, start = 0, count = 2
+[2021-07-26 21:32:04]--[src_cgi/myfiles_cgi.c:305]--select user_file_list.*, file_info.url, file_info.size, file_info.type from file_info, user_file_list where user = 'liult' and file_info.md5 = user_file_list.md5 limit 0, 2 在操作
+[2021-07-26 21:32:04]--[src_cgi/myfiles_cgi.c:436]--{
+	"files":	[{
+			"user":	"liult",
+			"md5":	"d41d8cd98f00b204e9800998ecf8427e",
+			"create_time":	"2021-07-26 21:30:02",
+			"file_name":	"test0726.txt",
+			"share_status":	0,
+			"pv":	0,
+			"url":	"http://172.20.248.167:80/group1/M00/00/00/rBT4p2D-uNqAc4llAAAAAAAAAAA658.txt",
+			"size":	0,
+			"type":	"txt"
+		}, {
+			"user":	"liult",
+			"md5":	"432cdd8b15f44128ab9ce0dffa305fbc",
+			"create_time":	"2021-07-26 21:30:35",
+			"file_name":	"test0726-1.txt",
+			"share_status":	0,
+			"pv":	1,
+			"url":	"http://172.20.248.167:80/group1/M00/00/00/rBT4p2D-uPuAZVWkAAAAM0hFvw4033.txt",
+			"size":	51,
+			"type":	"txt"
+		}]
+}
+[2021-07-26 21:32:08]--[src_cgi/myfiles_cgi.c:504]--cmd = count
+[2021-07-26 21:32:08]--[src_cgi/myfiles_cgi.c:536]--buf = {
+    "token": "671bbc001db3e2e568aa3abbabc5502f",
+    "user": "liult"
+}
+
+[2021-07-26 21:32:08]--[src_cgi/myfiles_cgi.c:175]--line = 2
+[2021-07-26 21:32:08]--[src_cgi/myfiles_cgi.c:504]--cmd = normal
+[2021-07-26 21:32:08]--[src_cgi/myfiles_cgi.c:536]--buf = {
+    "count": 2,
+    "start": 0,
+    "token": "671bbc001db3e2e568aa3abbabc5502f",
+    "user": "liult"
+}
+
+[2021-07-26 21:32:08]--[src_cgi/myfiles_cgi.c:556]--user = liult, token = 671bbc001db3e2e568aa3abbabc5502f, start = 0, count = 2
+[2021-07-26 21:32:08]--[src_cgi/myfiles_cgi.c:305]--select user_file_list.*, file_info.url, file_info.size, file_info.type from file_info, user_file_list where user = 'liult' and file_info.md5 = user_file_list.md5 limit 0, 2 在操作
+[2021-07-26 21:32:08]--[src_cgi/myfiles_cgi.c:436]--{
+	"files":	[{
+			"user":	"liult",
+			"md5":	"d41d8cd98f00b204e9800998ecf8427e",
+			"create_time":	"2021-07-26 21:30:02",
+			"file_name":	"test0726.txt",
+			"share_status":	0,
+			"pv":	0,
+			"url":	"http://172.20.248.167:80/group1/M00/00/00/rBT4p2D-uNqAc4llAAAAAAAAAAA658.txt",
+			"size":	0,
+			"type":	"txt"
+		}, {
+			"user":	"liult",
+			"md5":	"432cdd8b15f44128ab9ce0dffa305fbc",
+			"create_time":	"2021-07-26 21:30:35",
+			"file_name":	"test0726-1.txt",
+			"share_status":	0,
+			"pv":	1,
+			"url":	"http://172.20.248.167:80/group1/M00/00/00/rBT4p2D-uPuAZVWkAAAAM0hFvw4033.txt",
+			"size":	51,
+			"type":	"txt"
+		}]
+}
+[2021-07-26 21:32:17]--[src_cgi/myfiles_cgi.c:504]--cmd = count
+[2021-07-26 21:32:17]--[src_cgi/myfiles_cgi.c:536]--buf = {
+    "token": "671bbc001db3e2e568aa3abbabc5502f",
+    "user": "liult"
+}
+
+[2021-07-26 21:32:17]--[src_cgi/myfiles_cgi.c:175]--line = 2
+[2021-07-26 21:32:18]--[src_cgi/myfiles_cgi.c:504]--cmd = normal
+[2021-07-26 21:32:18]--[src_cgi/myfiles_cgi.c:536]--buf = {
+    "count": 2,
+    "start": 0,
+    "token": "671bbc001db3e2e568aa3abbabc5502f",
+    "user": "liult"
+}
+
+[2021-07-26 21:32:18]--[src_cgi/myfiles_cgi.c:556]--user = liult, token = 671bbc001db3e2e568aa3abbabc5502f, start = 0, count = 2
+[2021-07-26 21:32:18]--[src_cgi/myfiles_cgi.c:305]--select user_file_list.*, file_info.url, file_info.size, file_info.type from file_info, user_file_list where user = 'liult' and file_info.md5 = user_file_list.md5 limit 0, 2 在操作
+[2021-07-26 21:32:18]--[src_cgi/myfiles_cgi.c:436]--{
+	"files":	[{
+			"user":	"liult",
+			"md5":	"d41d8cd98f00b204e9800998ecf8427e",
+			"create_time":	"2021-07-26 21:30:02",
+			"file_name":	"test0726.txt",
+			"share_status":	0,
+			"pv":	0,
+			"url":	"http://172.20.248.167:80/group1/M00/00/00/rBT4p2D-uNqAc4llAAAAAAAAAAA658.txt",
+			"size":	0,
+			"type":	"txt"
+		}, {
+			"user":	"liult",
+			"md5":	"432cdd8b15f44128ab9ce0dffa305fbc",
+			"create_time":	"2021-07-26 21:30:35",
+			"file_name":	"test0726-1.txt",
+			"share_status":	0,
+			"pv":	1,
+			"url":	"http://172.20.248.167:80/group1/M00/00/00/rBT4p2D-uPuAZVWkAAAAM0hFvw4033.txt",
+			"size":	51,
+			"type":	"txt"
+		}]
+}
+[2021-07-26 21:33:55]--[src_cgi/myfiles_cgi.c:504]--cmd = count
+[2021-07-26 21:33:55]--[src_cgi/myfiles_cgi.c:536]--buf = {
+    "token": "671bbc001db3e2e568aa3abbabc5502f",
+    "user": "liult"
+}
+
+[2021-07-26 21:33:55]--[src_cgi/myfiles_cgi.c:175]--line = 2
+[2021-07-26 21:33:55]--[src_cgi/myfiles_cgi.c:504]--cmd = normal
+[2021-07-26 21:33:55]--[src_cgi/myfiles_cgi.c:536]--buf = {
+    "count": 2,
+    "start": 0,
+    "token": "671bbc001db3e2e568aa3abbabc5502f",
+    "user": "liult"
+}
+
+[2021-07-26 21:33:55]--[src_cgi/myfiles_cgi.c:556]--user = liult, token = 671bbc001db3e2e568aa3abbabc5502f, start = 0, count = 2
+[2021-07-26 21:33:55]--[src_cgi/myfiles_cgi.c:305]--select user_file_list.*, file_info.url, file_info.size, file_info.type from file_info, user_file_list where user = 'liult' and file_info.md5 = user_file_list.md5 limit 0, 2 在操作
+[2021-07-26 21:33:55]--[src_cgi/myfiles_cgi.c:436]--{
+	"files":	[{
+			"user":	"liult",
+			"md5":	"d41d8cd98f00b204e9800998ecf8427e",
+			"create_time":	"2021-07-26 21:30:02",
+			"file_name":	"test0726.txt",
+			"share_status":	0,
+			"pv":	0,
+			"url":	"http://172.20.248.167:80/group1/M00/00/00/rBT4p2D-uNqAc4llAAAAAAAAAAA658.txt",
+			"size":	0,
+			"type":	"txt"
+		}, {
+			"user":	"liult",
+			"md5":	"432cdd8b15f44128ab9ce0dffa305fbc",
+			"create_time":	"2021-07-26 21:30:35",
+			"file_name":	"test0726-1.txt",
+			"share_status":	0,
+			"pv":	2,
+			"url":	"http://172.20.248.167:80/group1/M00/00/00/rBT4p2D-uPuAZVWkAAAAM0hFvw4033.txt",
+			"size":	51,
+			"type":	"txt"
+		}]
+}
+[2021-07-26 21:33:55]--[src_cgi/myfiles_cgi.c:504]--cmd = count
+[2021-07-26 21:33:55]--[src_cgi/myfiles_cgi.c:536]--buf = {
+    "token": "671bbc001db3e2e568aa3abbabc5502f",
+    "user": "liult"
+}
+
+[2021-07-26 21:33:55]--[src_cgi/myfiles_cgi.c:175]--line = 2
+[2021-07-26 21:33:55]--[src_cgi/myfiles_cgi.c:504]--cmd = normal
+[2021-07-26 21:33:55]--[src_cgi/myfiles_cgi.c:536]--buf = {
+    "count": 2,
+    "start": 0,
+    "token": "671bbc001db3e2e568aa3abbabc5502f",
+    "user": "liult"
+}
+
+[2021-07-26 21:33:55]--[src_cgi/myfiles_cgi.c:556]--user = liult, token = 671bbc001db3e2e568aa3abbabc5502f, start = 0, count = 2
+[2021-07-26 21:33:55]--[src_cgi/myfiles_cgi.c:305]--select user_file_list.*, file_info.url, file_info.size, file_info.type from file_info, user_file_list where user = 'liult' and file_info.md5 = user_file_list.md5 limit 0, 2 在操作
+[2021-07-26 21:33:55]--[src_cgi/myfiles_cgi.c:436]--{
+	"files":	[{
+			"user":	"liult",
+			"md5":	"d41d8cd98f00b204e9800998ecf8427e",
+			"create_time":	"2021-07-26 21:30:02",
+			"file_name":	"test0726.txt",
+			"share_status":	0,
+			"pv":	0,
+			"url":	"http://172.20.248.167:80/group1/M00/00/00/rBT4p2D-uNqAc4llAAAAAAAAAAA658.txt",
+			"size":	0,
+			"type":	"txt"
+		}, {
+			"user":	"liult",
+			"md5":	"432cdd8b15f44128ab9ce0dffa305fbc",
+			"create_time":	"2021-07-26 21:30:35",
+			"file_name":	"test0726-1.txt",
+			"share_status":	0,
+			"pv":	2,
+			"url":	"http://172.20.248.167:80/group1/M00/00/00/rBT4p2D-uPuAZVWkAAAAM0hFvw4033.txt",
+			"size":	51,
+			"type":	"txt"
+		}]
+}
+[2021-07-26 21:35:38]--[src_cgi/myfiles_cgi.c:504]--cmd = count
+[2021-07-26 21:35:38]--[src_cgi/myfiles_cgi.c:536]--buf = {
+    "token": "671bbc001db3e2e568aa3abbabc5502f",
+    "user": "liult"
+}
+
+[2021-07-26 21:35:38]--[src_cgi/myfiles_cgi.c:175]--line = 2
+[2021-07-26 21:35:38]--[src_cgi/myfiles_cgi.c:504]--cmd = normal
+[2021-07-26 21:35:38]--[src_cgi/myfiles_cgi.c:536]--buf = {
+    "count": 2,
+    "start": 0,
+    "token": "671bbc001db3e2e568aa3abbabc5502f",
+    "user": "liult"
+}
+
+[2021-07-26 21:35:38]--[src_cgi/myfiles_cgi.c:556]--user = liult, token = 671bbc001db3e2e568aa3abbabc5502f, start = 0, count = 2
+[2021-07-26 21:35:38]--[src_cgi/myfiles_cgi.c:305]--select user_file_list.*, file_info.url, file_info.size, file_info.type from file_info, user_file_list where user = 'liult' and file_info.md5 = user_file_list.md5 limit 0, 2 在操作
+[2021-07-26 21:35:38]--[src_cgi/myfiles_cgi.c:436]--{
+	"files":	[{
+			"user":	"liult",
+			"md5":	"d41d8cd98f00b204e9800998ecf8427e",
+			"create_time":	"2021-07-26 21:30:02",
+			"file_name":	"test0726.txt",
+			"share_status":	0,
+			"pv":	0,
+			"url":	"http://172.20.248.167:80/group1/M00/00/00/rBT4p2D-uNqAc4llAAAAAAAAAAA658.txt",
+			"size":	0,
+			"type":	"txt"
+		}, {
+			"user":	"liult",
+			"md5":	"432cdd8b15f44128ab9ce0dffa305fbc",
+			"create_time":	"2021-07-26 21:30:35",
+			"file_name":	"test0726-1.txt",
+			"share_status":	0,
+			"pv":	3,
+			"url":	"http://172.20.248.167:80/group1/M00/00/00/rBT4p2D-uPuAZVWkAAAAM0hFvw4033.txt",
+			"size":	51,
+			"type":	"txt"
+		}]
+}
+[2021-07-26 21:36:04]--[src_cgi/myfiles_cgi.c:504]--cmd = count
+[2021-07-26 21:36:04]--[src_cgi/myfiles_cgi.c:536]--buf = {
+    "token": "671bbc001db3e2e568aa3abbabc5502f",
+    "user": "liult"
+}
+
+[2021-07-26 21:36:04]--[src_cgi/myfiles_cgi.c:175]--line = 3
+[2021-07-26 21:36:04]--[src_cgi/myfiles_cgi.c:504]--cmd = normal
+[2021-07-26 21:36:04]--[src_cgi/myfiles_cgi.c:536]--buf = {
+    "count": 3,
+    "start": 0,
+    "token": "671bbc001db3e2e568aa3abbabc5502f",
+    "user": "liult"
+}
+
+[2021-07-26 21:36:04]--[src_cgi/myfiles_cgi.c:556]--user = liult, token = 671bbc001db3e2e568aa3abbabc5502f, start = 0, count = 3
+[2021-07-26 21:36:04]--[src_cgi/myfiles_cgi.c:305]--select user_file_list.*, file_info.url, file_info.size, file_info.type from file_info, user_file_list where user = 'liult' and file_info.md5 = user_file_list.md5 limit 0, 3 在操作
+[2021-07-26 21:36:04]--[src_cgi/myfiles_cgi.c:436]--{
+	"files":	[{
+			"user":	"liult",
+			"md5":	"d41d8cd98f00b204e9800998ecf8427e",
+			"create_time":	"2021-07-26 21:30:02",
+			"file_name":	"test0726.txt",
+			"share_status":	0,
+			"pv":	0,
+			"url":	"http://172.20.248.167:80/group1/M00/00/00/rBT4p2D-uNqAc4llAAAAAAAAAAA658.txt",
+			"size":	0,
+			"type":	"txt"
+		}, {
+			"user":	"liult",
+			"md5":	"432cdd8b15f44128ab9ce0dffa305fbc",
+			"create_time":	"2021-07-26 21:30:35",
+			"file_name":	"test0726-1.txt",
+			"share_status":	0,
+			"pv":	3,
+			"url":	"http://172.20.248.167:80/group1/M00/00/00/rBT4p2D-uPuAZVWkAAAAM0hFvw4033.txt",
+			"size":	51,
+			"type":	"txt"
+		}, {
+			"user":	"liult",
+			"md5":	"71dc5528330519165801195652e67d2c",
+			"create_time":	"2021-07-26 21:35:59",
+			"file_name":	"0.png",
+			"share_status":	0,
+			"pv":	0,
+			"url":	"http://172.20.248.167:80/group1/M00/00/00/rBT4p2D-uj-AHy60AAEIYarYfbA403.png",
+			"size":	67681,
+			"type":	"png"
+		}]
+}

@@ -1,0 +1,2 @@
+[2021-10-03 14:12:49]--[/root/cmake_test/cloud-disk/src_cgi/dealsharefile_cgi.c:41]--mysql:[user=root,pwd=123,database=0voice_cloud_disk][2021-10-03 14:12:49]--[/root/cmake_test/cloud-disk/src_cgi/dealsharefile_cgi.c:46]--redis:[ip=127.0.0.1,port=6379]
+[2021-10-03 14:34:59]--[/root/cmake_test/cloud-disk/src_cgi/dealsharefile_cgi.c:41]--mysql:[user=root,pwd=123,database=0voice_cloud_disk][2021-10-03 14:34:59]--[/root/cmake_test/cloud-disk/src_cgi/dealsharefile_cgi.c:46]--redis:[ip=127.0.0.1,port=6379]

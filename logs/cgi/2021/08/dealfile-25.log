@@ -1,0 +1,38 @@
+[2021-08-25 09:11:16]--[src_cgi/dealfile_cgi.c:694]--cmd = share
+[2021-08-25 09:11:16]--[src_cgi/dealfile_cgi.c:726]--buf = {
+    "filename": "bazel1.png",
+    "md5": "17669b63cad4793b285b61ccb1df7f46",
+    "token": "d26efa30b6a01cdaa16758bfd02ad96b",
+    "user": "liult"
+}
+
+[2021-08-25 09:11:16]--[src_cgi/dealfile_cgi.c:729]--user = liult, token = d26efa30b6a01cdaa16758bfd02ad96b, md5 = 17669b63cad4793b285b61ccb1df7f46, file_name = bazel1.png
+[2021-08-25 09:52:15]--[src_cgi/dealfile_cgi.c:694]--cmd = del
+[2021-08-25 09:52:15]--[src_cgi/dealfile_cgi.c:726]--buf = {
+    "filename": "favicon.ico",
+    "md5": "d1d91fce03a7c6f84962fe61dbeb4f08",
+    "token": "d26efa30b6a01cdaa16758bfd02ad96b",
+    "user": "liult"
+}
+
+[2021-08-25 09:52:15]--[src_cgi/dealfile_cgi.c:729]--user = liult, token = d26efa30b6a01cdaa16758bfd02ad96b, md5 = d1d91fce03a7c6f84962fe61dbeb4f08, file_name = favicon.ico
+[2021-08-25 09:52:15]--[src_cgi/dealfile_cgi.c:328]--remove_file_from_storage ret = 0
+[2021-08-25 11:35:42]--[src_cgi/dealfile_cgi.c:694]--cmd = share
+[2021-08-25 11:35:42]--[src_cgi/dealfile_cgi.c:726]--buf = {
+    "filename": "python2.png",
+    "md5": "dcfe30f02e1e5557f4e327c08eadb3d4",
+    "token": "3a05fd00a155b53039919abee289afb7",
+    "user": "milo"
+}
+
+[2021-08-25 11:35:42]--[src_cgi/dealfile_cgi.c:729]--user = milo, token = 3a05fd00a155b53039919abee289afb7, md5 = dcfe30f02e1e5557f4e327c08eadb3d4, file_name = python2.png
+[2021-08-25 11:36:01]--[src_cgi/dealfile_cgi.c:694]--cmd = del
+[2021-08-25 11:36:01]--[src_cgi/dealfile_cgi.c:726]--buf = {
+    "filename": "python2.png",
+    "md5": "dcfe30f02e1e5557f4e327c08eadb3d4",
+    "token": "3a05fd00a155b53039919abee289afb7",
+    "user": "milo"
+}
+
+[2021-08-25 11:36:01]--[src_cgi/dealfile_cgi.c:729]--user = milo, token = 3a05fd00a155b53039919abee289afb7, md5 = dcfe30f02e1e5557f4e327c08eadb3d4, file_name = python2.png
+[2021-08-25 11:36:01]--[src_cgi/dealfile_cgi.c:328]--remove_file_from_storage ret = 0

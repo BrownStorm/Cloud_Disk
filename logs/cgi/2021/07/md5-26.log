@@ -1,0 +1,24 @@
+[2021-07-26 21:30:02]--[src_cgi/md5_cgi.c:337]--buf = {
+    "fileName": "test0726.txt",
+    "md5": "d41d8cd98f00b204e9800998ecf8427e",
+    "token": "2b828d43bb35eca35f212053eea9c49a",
+    "user": "liult"
+}
+
+[2021-07-26 21:30:02]--[src_cgi/md5_cgi.c:359]--user = liult, token = 2b828d43bb35eca35f212053eea9c49a, md5 = d41d8cd98f00b204e9800998ecf8427e, filename = test0726.txt
+[2021-07-26 21:30:35]--[src_cgi/md5_cgi.c:337]--buf = {
+    "fileName": "test0726-1.txt",
+    "md5": "432cdd8b15f44128ab9ce0dffa305fbc",
+    "token": "2b828d43bb35eca35f212053eea9c49a",
+    "user": "liult"
+}
+
+[2021-07-26 21:30:35]--[src_cgi/md5_cgi.c:359]--user = liult, token = 2b828d43bb35eca35f212053eea9c49a, md5 = 432cdd8b15f44128ab9ce0dffa305fbc, filename = test0726-1.txt
+[2021-07-26 21:35:59]--[src_cgi/md5_cgi.c:337]--buf = {
+    "fileName": "0.png",
+    "md5": "71dc5528330519165801195652e67d2c",
+    "token": "671bbc001db3e2e568aa3abbabc5502f",
+    "user": "liult"
+}
+
+[2021-07-26 21:35:59]--[src_cgi/md5_cgi.c:359]--user = liult, token = 671bbc001db3e2e568aa3abbabc5502f, md5 = 71dc5528330519165801195652e67d2c, filename = 0.png

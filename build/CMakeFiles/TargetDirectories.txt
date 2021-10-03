@@ -1,0 +1,12 @@
+/root/cloud-disk/build/CMakeFiles/rebuild_cache.dir
+/root/cloud-disk/build/CMakeFiles/edit_cache.dir
+/root/cloud-disk/bin_cgi/CMakeFiles/sharefiles_cgi.dir
+/root/cloud-disk/bin_cgi/CMakeFiles/reg_cgi.dir
+/root/cloud-disk/bin_cgi/CMakeFiles/myfiles_cgi.dir
+/root/cloud-disk/bin_cgi/CMakeFiles/edit_cache.dir
+/root/cloud-disk/bin_cgi/CMakeFiles/upload_cgi.dir
+/root/cloud-disk/bin_cgi/CMakeFiles/dealfile_cgi.dir
+/root/cloud-disk/bin_cgi/CMakeFiles/rebuild_cache.dir
+/root/cloud-disk/bin_cgi/CMakeFiles/dealsharefile_cgi.dir
+/root/cloud-disk/bin_cgi/CMakeFiles/md5_cgi.dir
+/root/cloud-disk/bin_cgi/CMakeFiles/login_cgi.dir
